@@ -138,12 +138,12 @@ This repository includes selected final figures in `docs/figures/` and represent
 
 Create and activate a Python environment, then install the required packages:
 
-
 ```bash
 pip install -r requirements.txt
+
 ```
 
-Dependencies:
+Dependencies
 
 The project mainly uses:
 
@@ -153,8 +153,8 @@ matplotlib
 networkx
 scipy
 python-docx
+How to run
 
-How to run:
 Run the main scripts in this order:
 python src/02_plan_a_forward/code13.py
 python src/02_plan_a_forward/code15.py
@@ -180,14 +180,11 @@ the framework supports inverse-problem reasoning only indirectly unless paired w
 The project should therefore be interpreted as a controlled Network Science study of a multiplex mapping framework, not as a clinically validated cardiac mapping tool.
 
 Report:
-
 The final written report is stored in the report/ directory.
 
 Author:
 Sara Yasinian
 
 Licence:
-
 This repository is shared for academic and educational purposes.
-
 
