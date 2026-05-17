@@ -138,6 +138,7 @@ This repository includes selected final figures in `docs/figures/` and represent
 
 Create and activate a Python environment, then install the required packages:
 
+
 ```bash
 pip install -r requirements.txt
 ```
