@@ -142,7 +142,7 @@ Create and activate a Python environment, then install the required packages:
 pip install -r requirements.txt
 ```
 
-Dependencies
+Dependencies:
 
 The project mainly uses:
 
@@ -153,7 +153,7 @@ networkx
 scipy
 python-docx
 
-How to run
+How to run:
 Run the main scripts in this order:
 python src/02_plan_a_forward/code13.py
 python src/02_plan_a_forward/code15.py
@@ -163,10 +163,12 @@ python src/03_plan_b_network/CodeB25.py
 python src/03_plan_b_network/CodeB26.py
 python src/03_plan_b_network/CodeB3.py
 
-Reproducibility
+Reproducibility:
+
 The project uses fixed seeds and deterministic synthetic generation rules where possible. The goal is to make the main results reproducible from the provided code structure rather than dependent on hidden manual processing.
 
-Limitations
+Limitations:
+
 This repository presents a synthetic methodological framework. Its main limitations are:
 
 the substrate is synthetic rather than clinical,
@@ -176,13 +178,16 @@ the framework supports inverse-problem reasoning only indirectly unless paired w
 
 The project should therefore be interpreted as a controlled Network Science study of a multiplex mapping framework, not as a clinically validated cardiac mapping tool.
 
-Report
+Report:
+
 The final written report is stored in the report/ directory.
 
-Author
+Author:
+
 Sara Yasinian
 
-Licence
+Licence:
+
 This repository is shared for academic and educational purposes.
 
 
