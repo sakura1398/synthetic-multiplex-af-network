@@ -184,7 +184,6 @@ Report:
 The final written report is stored in the report/ directory.
 
 Author:
-
 Sara Yasinian
 
 Licence:
